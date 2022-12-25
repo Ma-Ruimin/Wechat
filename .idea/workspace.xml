@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0511bf-5870-4eef-9baf-1d2fca7a3c52" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/weixin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/weixin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +71,8 @@
       <workItem from="1661440917066" duration="1305000" />
       <workItem from="1671970541280" duration="36000" />
       <workItem from="1671970602304" duration="2000" />
+      <workItem from="1671971488707" duration="124000" />
+      <workItem from="1671971718825" duration="159000" />
     </task>
     <servers />
   </component>
