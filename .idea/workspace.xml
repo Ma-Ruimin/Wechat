@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0511bf-5870-4eef-9baf-1d2fca7a3c52" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/weixin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/weixin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +72,7 @@
       <workItem from="1671970602304" duration="2000" />
       <workItem from="1671971488707" duration="124000" />
       <workItem from="1671971718825" duration="159000" />
+      <workItem from="1671974169195" duration="368000" />
     </task>
     <servers />
   </component>
